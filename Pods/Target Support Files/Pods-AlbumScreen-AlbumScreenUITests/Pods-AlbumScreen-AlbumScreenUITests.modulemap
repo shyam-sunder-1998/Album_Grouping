@@ -1,0 +1,6 @@
+framework module Pods_AlbumScreen_AlbumScreenUITests {
+  umbrella header "Pods-AlbumScreen-AlbumScreenUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

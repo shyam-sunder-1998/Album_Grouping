@@ -1,0 +1,6 @@
+framework module Pods_AlbumScreen {
+  umbrella header "Pods-AlbumScreen-umbrella.h"
+
+  export *
+  module * { export * }
+}

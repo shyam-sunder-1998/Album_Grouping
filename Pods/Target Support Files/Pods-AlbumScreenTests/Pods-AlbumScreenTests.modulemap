@@ -1,0 +1,6 @@
+framework module Pods_AlbumScreenTests {
+  umbrella header "Pods-AlbumScreenTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
